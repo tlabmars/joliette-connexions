@@ -6,7 +6,7 @@ En début d'année, nous avons lancé avec Tabasco Vidéo (média local citoyen)
 
 Notre objectif : **mettre technologies web et storytelling au service d'un territoire et contribuer à développer la pratique amateure de la création interactive**.
 
-Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 5 à 7 personnes planchent avec enthousiasme et curiosité, sur le quartier et ses usages, la façon de créer du lien entre habitants de toujours, néos, passants, touristes.
+Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 6 à 8 personnes planchent avec curiosité et enthousiasme, sur le quartier et ses usages, la façon de créer du lien entre habitants de toujours, néos, passants, touristes.
 
 Vous trouverez ici le kit que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), ainsi que le code développé par chaque équipe.
 
