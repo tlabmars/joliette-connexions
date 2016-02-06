@@ -8,7 +8,7 @@ Notre objectif : **mettre technologies web et storytelling au service d'un terri
 
 Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 5 à 7 personnes planchent avec enthousiasme et curiosité, sur le quartier et ses usages, la façon de créer du lien entre habitants de toujours, néos, passants, touristes.
 
-Vous trouverez ici le design kit que nous avons concocté pour les équipiers de Joliette conneXion (a.k.a. JX), ainsi que le code développé par chaque équipe.
+Vous trouverez ici le kit que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), ainsi que le code développé par chaque équipe.
 
 Vous avez une question sur la démarche, souhaitez vous associer à JX ? 
 
