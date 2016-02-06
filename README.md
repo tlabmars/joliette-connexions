@@ -10,6 +10,6 @@ Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 5 à 7 personne
 
 Vous trouverez ici le kit que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), ainsi que le code développé par chaque équipe.
 
-Vous avez une question sur la démarche, souhaitez vous associer à JX ? 
+Vous avez une question sur la démarche, voulez en savoir plus ? 
 
 Rendez-vous sur **[tlabmars.org](http://tlabmars.org)** ou retrouvez-nous sur [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
