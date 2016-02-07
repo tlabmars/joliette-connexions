@@ -29,7 +29,7 @@ Devant les problèmes rencontrés avec notre JX à nous, une équipe s'est tourn
 
 Nous avions nous aussi envisagé de l'utiliser mais les channels ne nous paraissaient pas forcément idéaux pour gérer la documentation (pas assez structuré à notre avis), le partage de fichiers ou plus exactement le travail collaboratif sur les fichiers. 
 
-À creuser pour un prochain atelier.
+On veille, on creuse, on vous dit.
 
 ### Github
 
