@@ -16,8 +16,10 @@ Puis, pour créer un état d'esprit d'empathie, ouvert au point de vue d'autrui,
 À l'issue de l'exercice, les équipes ont présenté leurs propositions au groupe. 
 Toutes se sont complètement appropriées les personas qui leur avaient été assignées : pour leur créer des souvenirs du futur et combler le vide laissé par ceux effacés par la rénovation urbaine, pour faire parler leur rue sur Facebook et IRL, pour arrêter leur course et leur montrer ce qu'il y a d'histoire sous la surface des choses.
 
-Les supports utilisés lors de cette session : 
-- Une **carte du territoire** format A2, avec repèrage de **9 lieux** qui nous paraissaient, ainsi qu'à notre partenaire Fatche2, les plus intéressants points de départ
+Les **techniques mobilisées** lors de la session :
+
+Les **supports utilisés** : 
+- Une **carte du territoire** format A2, avec repèrage de **9 lieux** qui nous paraissaient, ainsi qu'à notre partenaire Fatche2, les plus intéressants points de départ pour une exploration du quartier
 - Un **[modèle de relevé de terrain](https://www.dropbox.com/s/ufxgxotx8awf3xs/JX%20Design%20Kit%20-%20Relev%C3%A9%20de%20terrain.pdf?dl=0)** (ici en [version commentée](https://www.dropbox.com/s/6jksya0w2208rao/JX%20Design%20Kit%20-%20Relev%C3%A9%20de%20terrain%20comment%C3%A9.pdf?dl=0)) comme support à l'observation d'un lieu et de ses usages
 - **Trois exemples de persona** incarnant trois familles d'usages, élaborés en amont de la session :
   - **[Anna](https://www.dropbox.com/s/35tx5epvdwk3sca/JXDesignKit-Persona-Anna.pdf?dl=0)**
