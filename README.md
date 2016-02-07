@@ -8,7 +8,11 @@ Notre objectif : **mettre technologies web et storytelling au service d'un terri
 
 Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 6 à 8 personnes planchent avec curiosité et enthousiasme, sur le quartier et ses usages, la façon de créer du lien entre habitants de toujours, néos, passants, touristes.
 
-Vous trouverez ici **[le kit](https://github.com/5patttttes/joliette-connexions/tree/master/design-kit)** que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), c'est à dire des [résumés succincts des sessions accompagnés des supports de travail]((design-kit/kit.md)), une liste des outils logiciels utilisés pour l'atelier, ainsi que **le code** développé par chaque équipe.
+Vous trouverez ici 
+- **[le kit](https://github.com/5patttttes/joliette-connexions/tree/master/design-kit)** que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), c'est à dire 
+  - des [résumés succincts des sessions accompagnés des supports de travail]((design-kit/kit.md)), 
+  - une [liste des outils logiciels](design-kit/outils.md) utilisés pour l'atelier, 
+- ainsi que **le code** développé par chaque équipe.
 
 Vous avez une question sur la démarche, voulez en savoir plus, dites **hello[at]tlabmars.org** ? 
 
