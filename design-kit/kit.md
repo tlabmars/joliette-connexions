@@ -21,3 +21,5 @@ Chaque tandem a également composé un **moodboard** pour consigner ses découve
 Nos équipiers ont corrigé d'eux-même dans leur exploration des lieux. Et chaque équipe s'est complètement appropriée la famille d'usage qui lui avait été assignée : pour lui créer des souvenirs du futur et combler le vide laissé par ceux effacés par la rénovation urbaine, pour faire parler sa rue sur Facebook et IRL, pour arrêter sa course et lui montrer ce qu'il y a d'histoire sous la surface des choses.
 
 La session s'est conclue presqu'à l'heure par une présentation au groupe des idées de chaque équipe.
+
+La suite, l'intention et les usages visés, très bientôt.
