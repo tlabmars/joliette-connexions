@@ -16,6 +16,8 @@ Les supports utilisés lors de cette session :
 - Un **[modèle de relevé de terrain](https://drive.google.com/open?id=0B7qmEPqr-TdkY09NcVM2WmtpZkU)** (ici en [version commentée](https://drive.google.com/open?id=0B7qmEPqr-TdkSkVfRUhWZ2I4T1E)) comme support à l'observation d'un lieu et de ses usages
 - **Trois exemples de persona** incarnant trois familles d'usages ([Anna](https://drive.google.com/file/d/0B7qmEPqr-TdkdUQ4eXhOLXY4aWs/view?usp=sharing), [Olivier](https://drive.google.com/file/d/0B7qmEPqr-TdkbGpXWmg4ZFdlZHM/view?usp=sharing), [Salima](https://drive.google.com/open?id=0B7qmEPqr-TdkZFo2UmJaZG9DSkE))
 
-Chaque tandem a également composé un **moodboard** pour consigner ses découvertes et informer le groupe sur chacun des 8 lieux visités. Nous avons élaboré un canevas à partir de ce travail et des enseignements que nous en avons tiré. En l'occurrence que nous n'avions pas donné assez de poids aux gens dans la forme du relevé de terrain. Nos équipiers ont corrigé d'eux-même.
+Chaque tandem a également composé un **moodboard** pour consigner ses découvertes et informer le groupe sur chacun des 8 lieux visités. Nous avons élaboré un canevas à partir de ce travail et des enseignements que nous en avons tiré. En l'occurrence que nous n'avions pas donné assez de poids aux gens dans la forme du relevé de terrain. 
+
+Nos équipiers ont corrigé d'eux-même. Chaque équipe s'est complètement appropriée la famille d'usage qui lui avait été assignée : pour lui créer des souvenirs du futur et combler le vide laissé par ceux effacés par la rénovation urbaine, pour faire parler sa rue sur Facebook et IRL, pour arrêter sa course et lui montrer ce qu'il y a d'histoire sous la surface des choses.
 
 La session s'est conclue presqu'à l'heure par une présentation au groupe des idées de chaque équipe.
