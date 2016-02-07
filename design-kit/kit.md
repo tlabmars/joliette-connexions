@@ -19,6 +19,9 @@ Toutes se sont complètement appropriées les personas qui leur avaient été as
 Les supports utilisés lors de cette session : 
 - Une **carte du territoire** format A2, avec repèrage de **9 lieux** qui nous paraissaient, ainsi qu'à notre partenaire Fatche2, les plus intéressants points de départ
 - Un **[modèle de relevé de terrain](https://www.dropbox.com/s/ufxgxotx8awf3xs/JX%20Design%20Kit%20-%20Relev%C3%A9%20de%20terrain.pdf?dl=0)** (ici en [version commentée](https://www.dropbox.com/s/6jksya0w2208rao/JX%20Design%20Kit%20-%20Relev%C3%A9%20de%20terrain%20comment%C3%A9.pdf?dl=0)) comme support à l'observation d'un lieu et de ses usages
-- **Trois exemples de persona** incarnant trois familles d'usages ([Anna](https://www.dropbox.com/s/35tx5epvdwk3sca/JXDesignKit-Persona-Anna.pdf?dl=0), [Olivier](https://www.dropbox.com/s/1o5g08cm2pz9np2/JXDesignKit-Persona-Olivier.pdf?dl=0), [Salima](https://www.dropbox.com/s/daipnjcozvzsn5y/JXDesignKit-Persona-Salima.pdf?dl=0))
+- **Trois exemples de persona** incarnant trois familles d'usages, élaborés en amont de la session :
+  - **[Anna](https://www.dropbox.com/s/35tx5epvdwk3sca/JXDesignKit-Persona-Anna.pdf?dl=0)**
+  - **[Olivier](https://www.dropbox.com/s/1o5g08cm2pz9np2/JXDesignKit-Persona-Olivier.pdf?dl=0)**
+  - **[Salima](https://www.dropbox.com/s/daipnjcozvzsn5y/JXDesignKit-Persona-Salima.pdf?dl=0)**
 
 La suite, l'intention et les usages visés, très bientôt.
