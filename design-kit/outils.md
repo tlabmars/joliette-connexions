@@ -10,7 +10,7 @@ Vous avez des suggestions : dites **hello[at]tlabmars.org**
 
 ### Suite Google
 
-Pour l'essentiel, nous travaillons à la préparation des ateliers et sessions avec la suite d'outils Google : drive, docs, sheets. Ouais, on sait, c'est le mal, mais hormis peut-être les outils Framasphere, pour lesquels la liste d'attente peut hélas être longue, nous n'avons pas à ce jour trouvé l'alternative magique.
+Pour l'essentiel, nous travaillons à la préparation des ateliers et sessions avec la suite d'outils Google : drive, docs, sheets. Ouais, on sait, c'est le mal, mais hormis peut-être les outils [Framasphere](http://framasphere.org), pour lesquels la liste d'attente peut hélas être longue, nous n'avons pas à ce jour trouvé l'alternative magique.
 
 
 ### Wordpress + Buddypress
