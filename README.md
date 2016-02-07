@@ -14,7 +14,7 @@ Vous trouverez ici
   - une [liste des outils logiciels](design-kit/outils.md) utilisés pour l'atelier, 
 - ainsi qu'à terme **le code** développé par chaque équipe.
 
-Vous avez une question sur la démarche, voulez en savoir plus, dites **hello[at]tlabmars.org** ? 
+Vous avez une question sur la démarche, voulez en savoir plus ? Dites **hello[at]tlabmars.org** ! 
 
 Vous pouvez aussi nous retrouvez  sur **[tlabmars.org](http://tlabmars.org)** [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
 
