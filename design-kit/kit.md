@@ -3,7 +3,7 @@
 
 De l'idée à sa concrétisation, tous les quinze jours depuis la mi-janvier et jusqu'à début avril, nous proposons à 3 équipes de 6 à 8 personnes d'imaginer, dizaïner, développer une création interactive, narrative, qui créé du lien dans le quartier de la Joliette et qui sera diffusée à partir du mois de mai. 
 
-En complément du code développé par les 3 équipes, nous vous proposons ici au fil des sessions un aperçu de notre démarche, ainsi que les supports de travail que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX). Notre approche place l'accent sur les usages, utilisateurs et effets dans le réel. Une façon d'aborder les narrations interactives par le design qui inverse la perspective pour de l'effet recherché vers l'histoire plutôt que l'inverse. Que produit-on alors ? Est-ce plus ou moins rapide ?
+En complément du code développé par les 3 équipes, nous vous proposons ici au fil des sessions un aperçu de notre démarche, ainsi que les supports de travail que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX). Notre approche place l'accent sur les usages, utilisateurs et effets dans le réel. Une façon d'aborder les narrations interactives par le design qui inverse la perspective pour de aller l'effet recherché vers l'histoire plutôt que l'inverse. Que produit-on alors ? Est-ce plus ou moins rapide ?
 
 ## Session 1 : exploration
 
