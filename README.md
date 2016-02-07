@@ -10,6 +10,6 @@ Depuis le 15 janvier 2016, **3 équipes pluridisciplinaires** de 6 à 8 personne
 
 Vous trouverez ici **[le kit](https://github.com/5patttttes/joliette-connexions/tree/master/design-kit)** que nous avons conçu pour et avec les équipiers de Joliette conneXion (a.k.a. JX), c'est à dire des [résumés succincts des sessions accompagnés des supports de travail]((design-kit/kit.md)), une liste des outils logiciels utilisés pour l'atelier, ainsi que **le code** développé par chaque équipe.
 
-Vous avez une question sur la démarche, voulez en savoir plus ? 
+Vous avez une question sur la démarche, voulez en savoir plus, dites hello[at]tlabmars.org ? 
 
-Rendez-vous sur **[tlabmars.org](http://tlabmars.org)** ou retrouvez-nous sur [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
+Vous pouvez aussi nous retrouvez  sur **[tlabmars.org](http://tlabmars.org)** [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
