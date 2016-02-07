@@ -12,11 +12,15 @@ Cette session inaugurale était avant tout une session de prise de contact : ave
 Après une rapide introduction pour se familiariser avec le cadre et le groupe, nous avons fait le choix d'**envoyer nos nouveaux équipiers sur le terrain** en tandem pour faire connaissance et aller à la rencontre du quartier et de ses habitants. 
 Chaque tandem a composé un **moodboard** pour consigner ses découvertes sur chacun des 8 lieux visités et les partager avec le groupe. 
 
-Puis, pour créer un état d'esprit d'empathie, ouvert au point de vue d'autrui, nous leur avons proposé un **rapide exercice d'idéation** : imaginer les grands traits d'une expérience interactive pour créer du lien en un **lieu tiré au sort** et pour une **famille d'usages et sa persona imposées**. 
+Puis, pour renforcer l'état d'esprit d'**empathie** induit par cette brève immersion, nous leur avons proposé un **rapide exercice d'idéation** : imaginer les grands traits d'une expérience interactive pour créer du lien en un **lieu tiré au sort** et pour une **famille d'usages et sa persona imposées**. 
 À l'issue de l'exercice, les équipes ont présenté leurs propositions au groupe. 
 Toutes se sont complètement appropriées les personas qui leur avaient été assignées : pour leur créer des souvenirs du futur et combler le vide laissé par ceux effacés par la rénovation urbaine, pour faire parler leur rue sur Facebook et IRL, pour arrêter leur course et leur montrer ce qu'il y a d'histoire sous la surface des choses.
 
 Les **techniques mobilisées** lors de la session :
+- [Immersion](http://www.designkit.org/methods/23) (très brève)
+- Mood-boarding
+- Personas
+- Brainstorming
 
 Les **supports utilisés** : 
 - Une **carte du territoire** format A2, avec repèrage de **9 lieux** qui nous paraissaient, ainsi qu'à notre partenaire Fatche2, les plus intéressants points de départ pour une exploration du quartier
@@ -26,4 +30,11 @@ Les **supports utilisés** :
   - **[Olivier](https://www.dropbox.com/s/1o5g08cm2pz9np2/JXDesignKit-Persona-Olivier.pdf?dl=0)**
   - **[Salima](https://www.dropbox.com/s/daipnjcozvzsn5y/JXDesignKit-Persona-Salima.pdf?dl=0)**
 
-La suite, l'intention et les usages visés, très bientôt.
+Les **enseignements** que nous en tirons :
+- Pour induire l'empathie **provoquer rapidement un contact direct** avec les futurs utilisateurs
+- et prévoir un **temps ample pour l'immersion** (une semaine pour [IDEO](http://www.designkit.org/), mais dans notre contexte, une heure supplémentaire n'aurait pas été de trop)
+- **Travailler en amont sur les familles d'usages** pour donner très vite du grain à moudre et introduire en douceur la technique des personas
+- **Maintenir un rythme soutenu** et **proposer des exercices diversifiés** et ludiques, bien sûr, alternant phases de réflexion individuelle / collective, réflexion / mise en situation
+
+
+**La suite, l'intention et les usages visés, très bientôt.**
