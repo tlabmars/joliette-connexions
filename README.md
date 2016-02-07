@@ -21,4 +21,4 @@ Vous pouvez aussi nous retrouvez  sur **[tlabmars.org](http://tlabmars.org)** [F
 
 Joliette conneXions ne serait pas possible sans le soutien financier de la **[Région PACA](http://www.regionpaca.fr/)** et le soutien logistique, humain... indéfectible de Tabasco Vidéo.
 
-Nous avons également pu compter sur **[l'INFA](https://www.infa-formation.com/etablissements-infa/18-infa-bouches-du-rhone.html)** pour nous mettre en relation avec Jean-Michel et Smaël deux aprentis codeurs qui vont rejoindre JX pour un stage et sur le concours précieux des étudiantes et étudiants du **[BTS Design Graphique du Lycée Saint-Exupéry](http://www.lyc-stexupery.ac-aix-marseille.fr/spip/spip.php?article185)**.
+Nous avons également pu compter sur **[l'INFA](https://www.infa-formation.com/etablissements-infa/18-infa-bouches-du-rhone.html)** pour nous mettre en relation avec Jean-Michel et Smaël deux aprentis codeurs qui vont rejoindre JX pour un stage et sur le concours précieux du **[BTS Design Graphique du Lycée Saint-Exupéry](http://www.lyc-stexupery.ac-aix-marseille.fr/spip/spip.php?article185)**.
