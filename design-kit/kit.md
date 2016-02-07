@@ -18,7 +18,7 @@ Toutes se sont complètement appropriées les personas qui leur avaient été as
 
 Les supports utilisés lors de cette session : 
 - Une **carte du territoire** format A2, avec repèrage de **9 lieux** qui nous paraissaient, ainsi qu'à notre partenaire Fatche2, les plus intéressants points de départ
-- Un **[modèle de relevé de terrain](https://drive.google.com/open?id=0B7qmEPqr-TdkY09NcVM2WmtpZkU)** (ici en [version commentée](https://drive.google.com/open?id=0B7qmEPqr-TdkSkVfRUhWZ2I4T1E)) comme support à l'observation d'un lieu et de ses usages
+- Un **[modèle de relevé de terrain](https://www.dropbox.com/s/ufxgxotx8awf3xs/JX%20Design%20Kit%20-%20Relev%C3%A9%20de%20terrain.pdf?dl=0)** (ici en [version commentée](https://drive.google.com/open?id=0B7qmEPqr-TdkSkVfRUhWZ2I4T1E)) comme support à l'observation d'un lieu et de ses usages
 - **Trois exemples de persona** incarnant trois familles d'usages ([Anna](https://drive.google.com/file/d/0B7qmEPqr-TdkdUQ4eXhOLXY4aWs/view?usp=sharing), [Olivier](https://drive.google.com/file/d/0B7qmEPqr-TdkbGpXWmg4ZFdlZHM/view?usp=sharing), [Salima](https://drive.google.com/open?id=0B7qmEPqr-TdkZFo2UmJaZG9DSkE))
 
 La suite, l'intention et les usages visés, très bientôt.
