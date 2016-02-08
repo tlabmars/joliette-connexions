@@ -42,4 +42,4 @@ Les **enseignements** que nous en tirons :
 - **Maintenir un rythme soutenu** et **proposer des exercices diversifiés** et ludiques, bien sûr, alternant phases de réflexion individuelle / collective, réflexion / mise en situation
 
 
-+**La suite, l'intention et les usages visés, très bientôt.***
+***La suite, l'intention et les usages visés, très bientôt.***
