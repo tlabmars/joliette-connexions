@@ -16,7 +16,7 @@ Cette session inaugurale était avant tout une session de prise de contact : ave
 Après une rapide introduction pour se familiariser avec le cadre et le groupe, nous avons fait le choix d'**envoyer nos nouveaux équipiers sur le terrain** en tandem pour faire connaissance et aller à la rencontre du quartier et de ses habitants. 
 Chaque tandem a composé un **moodboard** pour partager ses découvertes sur chacun des 8 lieux visités avec le groupe. 
 
-Puis, pour renforcer l'état d'esprit d'**empathie** induit par cette brève immersion, nous leur avons proposé un **rapide exercice d'idéation** : imaginer les grands traits d'une expérience interactive pour créer du lien en un **lieu tiré au sort** et pour une **famille d'usages et sa persona imposées**. 
+Puis, pour renforcer l'état d'esprit d'**empathie** induit par cette brève immersion, nous avons poursuivi avec un **rapide exercice d'idéation** : imaginer les grands traits d'une expérience interactive pour créer du lien en un **lieu tiré au sort** et pour une **famille d'usages et sa persona imposées**. 
 
 À l'issue de l'exercice, les équipes ont présenté leurs propositions au groupe. 
 Toutes se sont complètement appropriées "leurs" personas : pour leur créer des souvenirs du futur et combler le vide laissé par ceux effacés par la rénovation urbaine, pour faire parler leur rue sur Facebook et IRL, pour arrêter leur course et leur montrer ce qu'il y a d'histoire sous la surface des choses.
