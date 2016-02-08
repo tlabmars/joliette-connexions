@@ -4,4 +4,4 @@ Pendant 6 semaines avant le lancement de l'atelier, nous avons diffusé à nos f
 - avec le territoire 
 - et avec les [narrations interactives](narrations-interactives.md).
 
-Nous les reprennons ici quand nos emplois du temps le permettent :- )
+Nous les reprenons ici quand nos emplois du temps le permettent :- )
