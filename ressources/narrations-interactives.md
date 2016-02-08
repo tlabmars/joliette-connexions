@@ -101,7 +101,7 @@ Du texte html, des hyperliens qui mènent un peu partout (et certains plus nulle
 Dix ans après De Jonckheere, en 2012, France Inter a voulu retenter l’expérience #telp, toujours place Saint-Sulpice, à Paris, à l’occasion de la [dernière émission d’Antibuzz](http://www.franceinter.fr/evenement-antibuzz-tente-d-epuiser-un-lieu-parisien). Et cette année, des élèves ont tenté d’[épuiser l’usine Lepoutre, à Tourcoing](http://www.cafepedagogique.net/lexpresso/Pages/2015/11/24112015Article635839338487829845.aspx), à l’aide, notamment, de [Thinglink](https://www.thinglink.com/), qui permet d’ajouter des liens à des images ou des vidéos.
 
 
-## *[Circa 1948]()* (2014)
+## *[Circa 1948](http://circa1948.nfb.ca/)* (2014)
 de Stan Douglas, production NFB Canada
 
 Cette expérience immersive pour tablette vous plongera dans une recréation 3D de la Vancouver de l’après-guerre, une ville aujourd’hui disparue qui renaît dans *Circa 1948* grâce aux histoires de ceux qui y vécurent.
