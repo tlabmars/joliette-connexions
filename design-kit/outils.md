@@ -37,4 +37,4 @@ Github, donc, d'abord pour le code, mais finalement pourquoi pas aussi pour le d
 
 
 
- ***À suivre : mood-boarding et prototypage.***
+ ***À suivre : brainstorming et prototypage.***
