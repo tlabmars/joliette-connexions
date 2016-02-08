@@ -17,7 +17,7 @@ Vous trouverez ici
 
 Vous avez une question sur la démarche, voulez en savoir plus ? Dites **hello[at]tlabmars.org** ! 
 
-Vous pouvez aussi nous retrouvez  sur **[tlabmars.org](http://tlabmars.org)** [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
+Vous pouvez aussi nous retrouvez  sur **[tlabmars.org](http://tlabmars.org)**, [FB](https://facebook.com/tlabmars) et [Twitter](https://twitter.com/TLabMars).
 
 
 **Joliette conneXions** ne serait pas possible sans le soutien financier de la **[Région PACA](http://www.regionpaca.fr/)** et le soutien logistique, humain... indéfectible de Tabasco Vidéo.
