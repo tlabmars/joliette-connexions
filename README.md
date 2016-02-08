@@ -2,7 +2,7 @@
 
 Nous sommes **[un collectif de créateurs interactifs marseillais](http://tlabmars.org)**, affilié à **[Storycode](http://storycode.org)**. 
 
-En début d'année, nous avons lancé avec [Tabasco Vidéo](http://) et **[Fatche2](http://www.fatche2.fr/)** un défi un peu fou à **21 raconteurs, metteurs en images, designers et codeurs** de Marseille et sa région : **inventer, dizaïner et réaliser en 4 mois et 6 sessions une expérience interactive, narrative, pour créer du lien dans un quartier en pleine mutation**, la Joliette. 
+En début d'année, nous avons lancé avec [Tabasco Vidéo](http://) et **[Fatche2](http://www.fatche2.fr/)** **Joliette conneXions (a.k.a. JX)**, un défi un peu fou adressé à **21 raconteurs, metteurs en images, designers et codeurs** de Marseille et sa région : **inventer, dizaïner et réaliser en 4 mois et 6 sessions une expérience interactive, narrative, pour créer du lien dans un quartier en pleine mutation**, la Joliette. 
 
 Notre objectif : **mettre technologies web et storytelling au service d'un territoire et contribuer à développer la pratique amateure de la création interactive**.
 
