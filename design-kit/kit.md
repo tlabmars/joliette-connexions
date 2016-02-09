@@ -55,11 +55,12 @@ Après un point sur les difficultés rencontrées dans l'intersession, chaque é
 
 Deux temps de brainstorming ont alors permis à chaque équipe d'élaborer une esquisse du dispositif envisagé et de définir un premier synopsis. L'une et l'autre ont ensuite été présentés au groupe.
 L'étape suivante a consisté à confronter l'ébauche de dispositif proposée aux usages du territoire documentés pour la persona (principale) retenue par l'équipe. 
-La session s'est conclue par deux rounds de mise en situation où chaque équipe a mis en scène son dispositif, un équipier incarnant la persona, un équipier incarnant le "système", les équipiers restants observant la scène pour détecter frictions et incohérences.
+La session s'est conclue par deux rounds de mise en situation où chaque équipe a mis en scène son dispositif, un équipier incarnant la persona, un équipier incarnant le "système", les équipiers restants observant la scène sous les cinq angles définis en début de session, pour détecter opportunités, moments de flow, frictions ou incohérences.
 
 Les **techniques mobilisées** lors de la session :
 - Brainstorming
 - Observation guidée (où, pourquoi, qui, quoi, comment ?)
+- Personas
 - Bodystorming (mise en situation)
 
 To be continued
