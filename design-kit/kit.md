@@ -35,6 +35,3 @@ Les **enseignements** que nous en tirons :
 - et prévoir un **temps ample pour l'immersion** (une semaine pour [IDEO](http://www.designkit.org/), mais dans notre contexte, une heure supplémentaire n'aurait pas été de trop)
 - **Travailler en amont sur les familles d'usages** pour ancrer l'empathie et donner très vite des usages à moudre (c'est aussi un bon moyen d'amener en douceur la technique des personas)
 - **Maintenir un rythme soutenu** et **proposer des exercices diversifiés** et ludiques, bien sûr, alternant phases de réflexion individuelle / collective, réflexion / mise en situation
-
-
-***La suite, l'intention et les usages visés, très bientôt.***
