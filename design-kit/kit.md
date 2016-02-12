@@ -45,11 +45,11 @@ Entre les sessions 1 et 2 , nous avions donné pour consigne aux équipes
 L'objectif de la session 2 était de confirmer ces choix et d'affiner l'intention au regard du lieu choisi et de ses usages mais aussi de préparer un travail d'approfondissement des familles d'usages et personas esquissées. 
 Pour cette session, les équipiers étaient invités à considérer systématiquement leurs intentions / propositions de dispositifs par le prisme 
 
-- du **lieu (où)** : sur quelles caractéristiques du lieu, tangibles ou non, l'expérience s'appuie t'elle ? Le dispositif proposé tient-il compte de ces caractéristiques ? N'entre-t-il pas en conflit avec certaines caractéristiques ? Tire t-il le meilleur parti du lieu ?
-- de l'**effet recherché (pourquoi)**  : en quoi le dispositif proposé créé t-il du lien ? Entre qui et qui, entre qui et quoi ?
-- des **destinataires (qui)** : quelles familles d'usage le dispositif adresse-t-il ? Qui sont les interacteurs concernés ? Le dispositif tient-il compte de la réalité de leurs usages et du contexte d'utilisation dans lequel il s'inscrit ?
+- du **lieu (où)** : sur quelles caractéristiques du lieu, tangibles ou non, l'expérience s'appuie t'elle ? Le dispositif proposé tient-il compte de ces caractéristiques ? N'entre-t-il pas en conflit avec certaines caractéristiques ? Tire t'il le meilleur parti du lieu ?
+- de l'**effet recherché (pourquoi)**  : en quoi le dispositif proposé créé t'il du lien ? Entre qui et qui, entre qui et quoi ?
+- des **destinataires (qui)** : quelles familles d'usage le dispositif adresse-t-il ? Qui sont les interacteurs concernés ? Le dispositif tient-il compte de la réalité de leurs usages et du contexte d'utilisation dans lequel ils s'inscrivent ?
 - de l'**histoire (quoi)** : comment le territoire est-il mis en récit ? 
-- des **interactions (comment)** : quelles actions sont attendues des ineracteurs ? Comment sont-elles réalisées ? Par quel biais ? Quels effets produisent-elles ?
+- des **interactions (comment)** : quelles actions sont attendues des interacteurs ? Comment sont-elles réalisées ? Par quel biais ? Quels effets produisent-elles ?
 
 Après un point sur les difficultés rencontrées dans l'intersession, chaque équipe a présenté au groupe le / les lieux de son choix, ainsi que le dispositif envisagé. Chaque équipe a été invitée à choisir celle des personas de la session 1 lui paraissant la plus proche des usages visés par le dispositif.
 
