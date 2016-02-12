@@ -63,7 +63,20 @@ Les **techniques mobilisées** lors de la session :
 - Personas
 - Bodystorming (mise en situation)
 
-To be continued
+Les **supports utilisés** : 
+- Posters personas (sans la section usages internet)
+  - [Anna](https://www.dropbox.com/s/ihbjl6qhz1hb30z/JX%20Design%20Kit%20-%20Poster%20persona%20-%20Anna%20.pdf?dl=0)
+  - [Olivier](https://www.dropbox.com/s/6m5uk7qnsslf6yl/JX%20Design%20Kit%20-%20Poster%20persona%20-%20Olivier%20.pdf?dl=0)
+  - [Salima](https://www.dropbox.com/s/kfvfoheaiw43cag/JX%20Design%20Kit%20-%20Poster%20persona%20-%20Salima.pdf?dl=0)
+- Cartes mémo pour observation mise en situation (lien pour téléchargement à venir)
 
+Les équipes ont également eu à disposition pour guider leur travail pour les sessions à venir, les supports suivants : 
+- [Mode d'emploi des personas](https://www.dropbox.com/s/fz6h0kyw05dkyl9/JXDesignKit-Personasmodedemploi.pdf?dl=0)
+- [Mode d'emploi d'un moodboard](https://www.dropbox.com/s/axrsg8xhh1o3vug/JXDesignKit-Moodboardmodedemploi.pdf?dl=0)
+- [UX Canvas](https://www.dropbox.com/s/pq237t63iev0f7w/JX%20Design%20Kit%20-%20UX%20Canvas%20vierge.pdf?dl=0) ([version commentée](https://www.dropbox.com/s/fobd37phtbbqeof/JX%20Design%20Kit%20-%20UX%20Canvas%20comment%C3%A9.pdf?dl=0))
 
+Les **enseignements** que nous en tirons :
+- **Tester, vite et souvent**. Pas exactement une découverte, plutôt une confirmation. Les tests même sur un concept encore simplement esquissé, permettent d'identifier très en amont les éventuels problèmes d'utilisabilité.
+- Privilégier la mise en situation. **Jouer l'expérience** est non seulement bon pour l'activité cérébrale (le fait d'être actif physiquement stimule le cerveau) mais c'est aussi **ludique** et ça permet de **détecter plus vite les problèmes** que le travail intellectuel, sur papier conduit parfois à négliger. C'est un **excellent moyen d'introduire le contexte d'utilisation** et son importance dans le travail de création interactive.
 
+***À suivre, technologies web mobile, une introduction***
