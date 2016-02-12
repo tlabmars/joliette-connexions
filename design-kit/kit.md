@@ -55,7 +55,27 @@ Après un point sur les difficultés rencontrées dans l'intersession, chaque é
 
 Deux temps de brainstorming ont alors permis à chaque équipe d'élaborer une esquisse du dispositif envisagé et de définir un premier synopsis. L'une et l'autre ont ensuite été présentés au groupe.
 
-To be continued :- )
-L'étape suivante a consisté à confronter
+Enfin, chaque équipe a mis son dispositif à l'épreuve de la mise en situation : un équipier incarne la persona retenue par son équipe, un équipier incarne le "système", au besoin les équipiers restants peuvent incarner des seconds rôles (autre persona, élément clé du dispositif), sinon ils sont chargés d'observer la mise en situation pour noter les éventuels points de friction et moments de flow.
 
+Les **techniques mobilisées** lors de la session :
+- Personas
+- Prototypage rapide
+- Bodystorming
 
+Les **supports utilisés** : 
+- Posters personas (sans la section usages internet)
+  - Anna
+  - Olivier
+  - Salima
+- Cartes mémo pour observation mise en situation
+
+Les équipes ont également eu à disposition pour guider leur travail intersessions, les supports suivants : 
+- Mode d'emploi des personas
+- Mode d'emploi d'un moodboard
+- UX Canvas (version commentée)
+
+Les **enseignements** que nous en tirons :
+- **Tester, vite et souvent**. Pas exactement une découverte, plutôt une confirmation. Les tests même sur un concept encore simplement esquissé, permettent d'identifier très en amont les éventuels problèmes d'utilisabilité.
+- Privilégier la mise en situation. **Jouer l'expérience** est non seulement bon pour l'activité cérébrale (le fait d'être actif physiquement stimule le cerveau) mais c'est aussi **ludique** et ça permet de **détecter plus vite les problèmes** que le travail intellectuel, sur papier conduit parfois à négliger. C'est un **excellent moyen d'introduire le contexte d'utilisation** et son importance dans le travail de création interactive.
+
+***À suivre, technologies web mobile, une introduction***
