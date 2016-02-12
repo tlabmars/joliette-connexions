@@ -35,3 +35,35 @@ Les **enseignements** que nous en tirons :
 - et prévoir un **temps ample pour l'immersion** (une semaine pour [IDEO](http://www.designkit.org/), mais dans notre contexte, une heure supplémentaire n'aurait pas été de trop)
 - **Travailler en amont sur les familles d'usages** pour ancrer l'empathie et donner très vite des usages à moudre (c'est aussi un bon moyen d'amener en douceur la technique des personas)
 - **Maintenir un rythme soutenu** et **proposer des exercices diversifiés** et ludiques, bien sûr, alternant phases de réflexion individuelle / collective, réflexion / mise en situation
+
+## Session 2 intention < > usages
+
+Entre les sessions 1 et 2 , nous avions donné pour consigne aux équipes
+- de choisir le ou les lieux sur le(s)quel(s) elles souhaitaient travailler
+- de travailler une intention de dispositif commune autour de l'idée de créer du lien
+
+L'objectif de la session 2 était de confirmer (ou infirmer) ces choix et d'affiner l'intention au regard du lieu choisi et de ses usages mais aussi de préparer un travail d'approfondissement des familles d'usages et personas esquissées. 
+Pour cette session, les équipiers étaient invités à considérer systématiquement leurs intentions / propositions de dispositifs par le prisme 
+
+- du **lieu (où)** : sur quelles caractéristiques du lieu, tangibles ou non, l'expérience s'appuie t'elle ? Le dispositif proposé tient-il compte de ces caractéristiques ? N'entre-t-il pas en conflit avec certaines caractéristiques ? Tire t-il le meilleur parti du lieu ?
+- de l'**effet recherché (pourquoi)**  : en quoi le dispositif proposé créé t-il du lien ? Entre qui et qui, entre qui et quoi ?
+- des **destinataires (qui)** : quelles familles d'usage le dispositif adresse-t-il ? Qui sont les interacteurs concernés ? Le dispositif tient-il compte de la réalité de leurs usages et du contexte d'utilisation dans lequel il s'inscrit ?
+- de l'**histoire (quoi)** : comment le territoire est-il mis en récit ? 
+- des **interactions (comment)** : quelles actions sont attendues des ineracteurs ? Comment sont-elles réalisées ? Par quel biais ? Quels effets produisent-elles ?
+
+Après un point sur les difficultés rencontrées dans l'intersession, chaque équipe a présenté au groupe le / les lieux de son choix, ainsi que le dispositif envisagé. Chaque équipe a été invitée à choisir celle des personas de la session 1 lui paraissant la plus proche des usages visés par le dispositif.
+
+Deux temps de brainstorming ont alors permis à chaque équipe d'élaborer une esquisse du dispositif envisagé et de définir un premier synopsis. L'une et l'autre ont ensuite été présentés au groupe.
+L'étape suivante a consisté à confronter l'ébauche de dispositif proposée aux usages du territoire documentés pour la persona (principale) retenue par l'équipe. 
+La session s'est conclue par deux rounds de mise en situation où chaque équipe a mis en scène son dispositif, un équipier incarnant la persona, un équipier incarnant le "système", les équipiers restants observant la scène sous les cinq angles définis en début de session, pour détecter opportunités, moments de flow, frictions ou incohérences.
+
+Les **techniques mobilisées** lors de la session :
+- Brainstorming
+- Observation guidée (où, pourquoi, qui, quoi, comment ?)
+- Personas
+- Bodystorming (mise en situation)
+
+To be continued
+
+
+
