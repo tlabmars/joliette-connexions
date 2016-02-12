@@ -23,7 +23,7 @@ Non seulement, la mise en place et la maintenance d'un Buddypress est très chro
 
 Avec un peu de pratique et pas mal de tâtonnements, ça finit par s'arranger un peu, mais nous aurions tous certainement gagné du temps avec une solution moins "tout en un" mais plus souple.
 
-### Slack
+### [Slack](http://slack.com)
 
 Devant les problèmes rencontrés avec notre JX à nous, une équipe s'est tournée vers **[Slack](http://slack.com)**. 
 
@@ -31,10 +31,23 @@ Nous avions nous aussi envisagé de l'utiliser mais les channels ne nous paraiss
 
 On veille, on creuse, on vous dit.
 
-### Github
+### [Github](https://github.com/)
 
 Github, donc, d'abord pour le code, mais finalement pourquoi pas aussi pour le design kit et les ressources... On teste, on vous dira.
 
+## Brainstorming
+
+Pour le brainstorming, nous avons fait le choix d'utiliser plutôt, pendant les sessions, des outils... analogiques, qui évitent que chacun soit sur son écran dans son coin et favorisent une dynamique de groupe. Beaucoup de post-its, des gommettes, un paperboard ou whiteboard, idéalement un paper/white board.  Pour la conservation et le partage des résultats notre choix s'est porté sur une documentation systématique lors des sessions de chaque étape de travail en photos et vidéos, avec mise à disposition sur l'espace collaboratif. Il vaut mieux avoir anticipé la question. 1. ça prend un peu de temps 2. quelqu'un doit s'y coller (et une personne doit donc être affectée spécifiquement à cette tâche). 
+
+Entre les sessions et pour permettre aux groupes d'avancer, nous leur avons proposé quelques outils en ligne.
+
+### [Realtimeboard](http://realtimeboard.com/)
+
+Un whiteboard virtuel parmi d'autres qui permet la collaboration et la discussion en live et en différé (via les commentaires). Assez versatile, il permet aussi bien de créer des schémas, des mindmaps, des moodboards, que de partager des médias et liens ou encore de dessiner.
+La version gratuite permet de créer 3 tableaux et de collaborer à 3... Après, c'est payant (à partir de 10$ / mois avec 3 collaborateurs max.).
+
+### [Invision](http://www.invisionapp.com/)
+
+Plutôt orienté prototypage et test de sites et apps, [Invision](http://www.invisionapp.com/) intègre désormais des "boards" collaboratifs y compris dans sa version gratuite.
 
 
- ***À suivre : brainstorming et prototypage.***
