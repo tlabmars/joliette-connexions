@@ -56,7 +56,7 @@ L'immersion de l'interacteur dans l'application de cinéma augmenté s'appuie ce
 ## *[The Wild Path, An Icelandic adventure](http://tympanus.net/Development/StorytellingMap/)* (2015)
 Une démo proposée par Codrops
 
-[Codrops](http://tympanus.net/codrops/) est un blog (en anglais) qui rassemble tutos et démos de diverses technologies web et mobile. Ici, il s’agit avec *The Wild Path* d’illustrer la narration appuyée sur un élément du langage HTML5, l'élément [<canvas>](http://www.alsacreations.com/tuto/lire/1484-introduction.html), ou la possibilité de dessiner programmatiquement dans la fenêtre du navigateur.
+[Codrops](http://tympanus.net/codrops/) est un blog (en anglais) qui rassemble tutos et démos de diverses technologies web et mobile. Ici, il s’agit avec *The Wild Path* d’illustrer la narration appuyée sur un élément du langage HTML5, l'élément [canvas](http://www.alsacreations.com/tuto/lire/1484-introduction.html), ou la possibilité de dessiner programmatiquement dans la fenêtre du navigateur.
 
 ### Principe d’interaction
 
