@@ -78,4 +78,33 @@ Les **enseignements** que nous en tirons :
 - **Tester, vite et souvent**. Pas exactement une découverte, plutôt une confirmation. Les tests même sur un concept encore simplement esquissé, permettent d'identifier très en amont les éventuels problèmes d'utilisabilité.
 - Privilégier la mise en situation. **Jouer l'expérience** est non seulement bon pour l'activité cérébrale (le fait d'être actif physiquement stimule le cerveau) mais c'est aussi **ludique** et ça permet de **détecter plus vite les problèmes** que le travail intellectuel, sur papier conduit parfois à négliger. C'est un **excellent moyen d'introduire le contexte d'utilisation** et son importance dans le travail de création interactive.
 
-***À suivre, technologies web mobile, une introduction***
+## Session 3 : technologies web mobile
+
+Entre les sessions 2 et 3, nous avions donné pour consigne aux participants 
+- d'engager un travail de terrain pour documenter les usages du territoire et usages numériques des usagers du territoire
+- de formaliser leurs intentions grâce au "UX Canvas"
+
+La session 3, plus "magistrale" que les précédentes, avait pour objet d'exposer l'état des technologies en fonction des premières intentions qui se dégageaient pour chaque équipe, et de confronter ces intentions aux possibles techniques. Elle s'est concentrée sur les technologies web mobile et a traité des points suivants :
+- développement natif vs. développement web
+- HTML, CSS, JS : quel langage pour faire quoi ?
+- Géolocalisation : GPS, Wifi, réseau téléphonique, quelle méthode, dans quel contexte, pour quelle précision ?
+- Réalité augmentée : les possibles sur le web
+
+À l'issue de la présentation par notre codeur référent, chaque équipe a revu ses intentions en compagnie d'un GO / facilitateur pour valider leur faisabilité technique / aménager le dispositif. 
+Parallèlement, les codeurs de chaque équipe ont mis en commun leurs réflexions pour identifier de premières briques fonctionnelles et les développements pouvant être initiés.
+
+## Session 4 : narration < > expérience
+À l'issue de la session 3 et dans l'intersession entre les sessions 2 et 4, nous avons perçu dans les équipes une réelle difficulté à se projeter collectivement dans un dispositif. Nous avons fait le choix pour cette session de nous concentrer sur le récit et son lien avec l'expérience proposée.
+À partir d'un exemple de scénario, donné en début de session, chaque équipe, accompagnée d'un GO, a donc planché sur un synopsis, qui a ensuite été repris pour séquencer le récit et détailler les interactions pour chaque séquence avec le support d'une cartographie de l'expérience intégrant la narration.
+
+Les **techniques mobilisées** lors de la session :
+- Brainstorm guidé, sur la base d'un exemple de scénario
+
+Les **supports utilisés** : 
+
+- **[Exemple de scénario interactif](https://www.dropbox.com/s/biogdb5shdavq79/JX%20Design%20Kit%20-%20Exemple%20de%20sc%C3%A9nario%20interactif.pdf?dl=0)**
+- **[Cartographie narration < > expérience](https://www.dropbox.com/s/1967jbubx8wi4yt/JX%20Design%20Kit-NARRATION%3C%3EEXPERIENCE-PosterA2.pdf?dl=0)** (Modèle gdocs : lien à venir)
+
+Les **enseignements** que nous en tirons : 
+
+Nous avons pris le parti avec **JX** d'engager le travail de création par une réflexion sur les usages, dérivée des méthodes du design, plutôt que par le récit. Nous pensions dès cette session amorcer le travail sur l'interface mais nous avons perçu un flottement dans les équipes. Nous avons réalisé qu'il nous fallait rééquilibrer l'approche pour accompagner l'émergence d'une vision partagée de l'expérience globale et engager la suite du travail dans de bonnes conditions pour tous. Nous avons fait le choix d'une session plus informelle, centrée sur l'élaboration d'un scénario associant récit, narration et expérience, interactions et reporté le travail sur l'interface à l'étape de spécification (session 5).
