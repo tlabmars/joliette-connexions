@@ -152,9 +152,14 @@ Deux jours intenses qui ont vu toutes les équipes aboutir une première version
 
 Les **enseignements** que nous en tirons : 
 
-Ce fut intense et au passage une équipe a un peu perdu le fil (pour le rattraper en fin de session). Les tests ont un peu pâti du rush du sprint final, pas forcément aussi bien préparés et documentés qu'il eut fallu. 
-Mais cela ne nous empêche pas d'être très fiers du résultat. Soit 3 expériences mobiles pour aller à la rencontre d'un quartier et, qui sait, y provoquer des rencontres. 3 histoires interactives qui embrassent trois registres différents, avec toutes une bonne dose de fiction et de "jeu" et travaillant toutes autour de l'idée de l'interruption, interruption du flux des passants, interruption des passants dans leurs déplacements utilitaires... pour inciter à s'arrêter et à porter l'attention au lieu, à sa vibration et à son histoire. 
+Le week-end fut intense et au passage une équipe a un peu perdu le fil (pour le retrouver in extremis en fin de session). Les tests ont un peu pâti du rush du sprint final, pas forcément aussi bien préparés et documentés qu'il eut fallu. 
 
-Et l'aventure se poursuit pour finaliser chaque expérience, concevoir et fabriquer la signalétique qui l'accompagne (QR codes et signes graphiques taggés au sol, flyers...) en vue de leur lancement le 19 mai 2016. 
-D'ici là vous pourrez découvrir les trois expériences issues de **Joliette conneXions** sur [jolietteconnexions.com](https://jolietteconnexions.com).
+Mais cela ne nous empêche pas d'être très fiers du résultat.
+Soit 3 expériences mobiles pour aller à la rencontre d'un quartier et, qui sait, y provoquer des rencontres. 3 histoires interactives qui embrassent des registres différents, du jeu à l'enquête, en passant par l'exploration des sens, avec toutes une bonne dose de fiction mais qui ont en commun de travailler toutes autour de l'idée de l'interruption, interruption du flux des passants, interruption des passants dans leurs déplacements utilitaires... pour inciter à s'arrêter et à porter attention au lieu, à sa vibration et à son histoire. 
+
+Et après l'heure, c'est encore l'heure... Nous ne voulions pas en rester là, c'était important pour nous comme pour les JXers d'aller au bout de la démarche, **Joliette conneXions** se poursuit donc quelques semaines, le temps de finaliser chaque expérience, concevoir et fabriquer la signalétique qui l'accompagne (QR codes et signes graphiques taggés au sol, flyers...) en vue de leur **lancement le 19 mai 2016**. Car oui, Jungle Joliette, République Stories et Le Réveil de la Joliette seront toutes live, in situ, à compter du printemps. 
+
+Un grand merci aux 19 participants dont l'enthousiasme et l'investissement ont fait de Joliette conneXions une belle aventure humaine.
+
+Et en attendant le 19 mai... vous pourrez découvrir les trois expériences issues de **Joliette conneXions** sur [jolietteconnexions.com](https://jolietteconnexions.com).
 
