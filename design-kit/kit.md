@@ -108,3 +108,53 @@ Les **supports utilisés** :
 Les **enseignements** que nous en tirons : 
 
 Nous avons pris le parti avec **JX** d'engager le travail de création par une réflexion sur les usages, dérivée des méthodes du design, plutôt que par le récit. Nous pensions dès cette session 4 amorcer le travail sur l'interface, mais nous avons perçu la difficulté pour les équipes de se projeter dans un dispositif commun. Nous avons réalisé qu'il nous fallait rééquilibrer l'approche, **remettre du récit**, pour accompagner l'émergence d'une vision partagée de l'expérience globale et engager la suite du travail dans de bonnes conditions. Nous avons donc fait le choix d'une session plus informelle, centrée sur l'élaboration d'un scénario associant récit / narration et expérience / interactions et reporté le travail sur l'interface à l'étape de spécification (session 5).
+
+## Session 5 : interfaces < > spécifications
+Entre les sessions 4 et 5, les codeurs des 3 équipes ont mis en commun les scénarios qui se dégageaient pour chacun des projets. L'objectif était d'identifier les fonctionnalités mobilisées par chacune des expériences et les éventuelles fonctionnalités communes aux trois expériences, afin de dégager le cas échéant un socle technique commun auquel chacun pourrait contribuer. 
+
+Cette analyse a donné naissance à **JX Writer** : un outil backend cumulant des fonctions basiques de scénarisation et de gestion de contenu. Le moteur des trois expériences, développé par notre codeur référent Nicolas Brignol sous Symfony. C'est autour de JX Writer que nous avons construit cette avant-dernière session de JX et dernière ligne droite avant l'étape finale d'assemblage et de codage. 
+
+Notre objectif était d'apporter à chaque participant une meilleure compréhension de la traduction "technique" des intentions de son équipe, afin de faciliter le dialogue entre "codeurs" et "raconteurs" et de fluidifier au maximum la transposition de l'intention en code. 
+
+La session s'est entamée sur une présentation de **JX Writer** et de la logique permettant de créer les scènes de l'expérience, de leur associer des médias (texte, son, image fixe, vidéo) et de les lier entre elles avec ou sans conditions (géolocalisation, variables internes à l'expérience, ...), à partir d'un exemple fictif. Puis chaque équipe a amorcé la définition des écrans associés à chaque séquence de récit pour identifier les modèles d'écrans à développer, ainsi que les scènes et conditions à créer
+
+Les **techniques mobilisées** lors de la session :
+- Flowcharting
+- Wireframing
+- Spécification éditorialo-technique
+
+Les **supports utilisés** : 
+
+Exemple fictif 
+- **[Exemple de scénario interactif](https://www.dropbox.com/s/peycdyhytdsyu85/JX%20Design%20Kit%20-%20Enqu%C3%AAte%20en%20for%C3%AAt%20de%20Broc%C3%A9liande%20-%20sc%C3%A9nario%20interactif.pdf?dl=0)**
+- **[Cartographie narration < > expérience](https://www.dropbox.com/s/va2xwhr0p1dmmpl/JX%20Design%20Kit%20-%20TABLEAU%20EXP%C3%89RIENCE%20--%20NARRATION%20-%20ENQU%C3%8ATE%20EN%20FOR%C3%8AT%20DE%20BROC%C3%89LIANDE%20-%20Nicolas.pdf?dl=0)**
+- **[Exemple de Flowchart](https://www.dropbox.com/s/spkemxxcpy0rm39/JXDesignKit-ScenarioDiagramme.pdf?dl=0)**
+- **[Exemple de Wireframes basse-fidélité](https://www.dropbox.com/s/5akwe32zq3p1vqw/JXDesignKit-LoFiWireframes.pdf?dl=0)**
+- **[Exemple de Wireframes haute-fidélité](https://www.dropbox.com/s/mep14rldsffz475/JXDesignKit-HiFiWireframes.pdf?dl=0)**
+
+
+Wireframing kit
+- **[Wireframing kit mobile à imprimer](https://www.dropbox.com/s/izeu84n26rbg7l1/JXDesignKit-mobile-wireframes.pdf?dl=0)**
+
+JX Writer
+- **[Code source de l'application backend](https://github.com/tlabmars/jx-writer)**
+- **[SDK Javascript](https://github.com/tlabmars/jx-front-proto)**
+
+Les **enseignements** que nous en tirons : 
+
+Nous avions dès le lancement de l'atelier prévu de mutualiser un maximum les développements afin de permettre à chaque équipe d'aboutir sa création dans le temps de l'atelier et avec les moyens dont nous disposions, mais c'est le dialogue avec Nicolas Brignol et les codeurs de chaque équipe qui a permis d'élaborer une vision commune qui s'est traduite dans un outil commun. **JX Writer** fait partie des très bonnes surprises de ces trois mois d'ateliers. Un outil de gestion de contenus orienté narration, qui ne prend pas en charge la couche frontend pour mieux embrasser de multiples modes de diffusion... Encore embryonnaire et très brut de décoffrage pour l'heure, JX Writer est un premier pas pour nous très significatif et encourageant dans la direction d'ateliers d'écriture interactive qui embrassent aussi bien la narration, le design que le code.
+
+## Session 6 : intégration et tests utilisateurs grandeur nature
+
+L'ultime session de JX s'est déroulée sur un week-end complet : deux jours pour finaliser la production des contenus, les intégrer dans notre outil maison **JX Writer** et coder le frontend. 
+
+Deux jours intenses qui ont vu toutes les équipes aboutir une première version fonctionnelle de leur expérience. Et en guise de bouquet final : un test utilisateur grandeur nature des trois expériences, dont une simulant l'expérience, par une dizaine de testeurs invités.
+
+Les **enseignements** que nous en tirons : 
+
+Ce fut intense et au passage une équipe a un peu perdu le fil (pour le rattraper en fin de session). Les tests ont un peu pâti du rush du sprint final, pas forcément aussi bien préparés et documentés qu'il eut fallu. 
+Mais cela ne nous empêche pas d'être très fiers du résultat. Soit 3 expériences mobiles pour aller à la rencontre d'un quartier et, qui sait, y provoquer des rencontres. 3 histoires interactives qui embrassent trois registres différents, avec toutes une bonne dose de fiction et de "jeu" et travaillant toutes autour de l'idée de l'interruption, interruption du flux des passants, interruption des passants dans leurs déplacements utilitaires... pour inciter à s'arrêter et à porter l'attention au lieu, à sa vibration et à son histoire. 
+
+Et l'aventure se poursuit pour finaliser chaque expérience, concevoir et fabriquer la signalétique qui l'accompagne (QR codes et signes graphiques taggés au sol, flyers...) en vue de leur lancement le 19 mai 2016. 
+D'ici là vous pourrez découvrir les trois expériences issues de **Joliette conneXions** sur [jolietteconnexions.com](https://jolietteconnexions.com).
+
