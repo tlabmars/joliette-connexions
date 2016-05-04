@@ -148,18 +148,18 @@ Nous avions dès le lancement de l'atelier prévu de mutualiser un maximum les d
 
 L'ultime session de JX s'est déroulée sur un week-end complet : deux jours pour finaliser la production des contenus, les intégrer dans notre outil maison **JX Writer** et coder le frontend. 
 
-Deux jours intenses qui ont vu toutes les équipes aboutir une première version fonctionnelle de leur expérience. Et en guise de bouquet final : un test utilisateur grandeur nature des trois expériences, dont une simulant l'expérience, par une dizaine de testeurs invités.
+Deux jours intenses qui ont vu toutes les équipes aboutir une première version fonctionnelle de leur expérience. Et en guise de bouquet final : un test utilisateur grandeur nature des trois expériences (dont une simulée) par une dizaine de testeurs invités.
 
 Les **enseignements** que nous en tirons : 
 
 Le week-end fut intense et au passage une équipe a un peu perdu le fil (pour le retrouver in extremis en fin de session). Les tests ont un peu pâti du rush du sprint final, pas forcément aussi bien préparés et documentés qu'il eut fallu. 
 
 Mais cela ne nous empêche pas d'être très fiers du résultat.
-Soit 3 expériences mobiles pour aller à la rencontre d'un quartier et, qui sait, y provoquer des rencontres. 3 histoires interactives qui embrassent des registres différents, du jeu à l'enquête, en passant par l'exploration des sens, avec toutes une bonne dose de fiction mais qui ont en commun de travailler toutes autour de l'idée de l'interruption, interruption du flux des passants, interruption des passants dans leurs déplacements utilitaires... pour inciter à s'arrêter et à porter attention au lieu, à sa vibration et à son histoire. 
+Soit 3 expériences mobiles pour aller à la rencontre d'un quartier et, qui sait, y provoquer des rencontres. 3 histoires interactives qui embrassent des registres différents, du jeu à l'enquête, en passant par l'exploration des sens, avec toutes une bonne dose de fiction et qui ont en commun de travailler toutes autour de l'idée de l'interruption du flux des passants, et de l'interpellation de tous ceux qui traversent le quartier, sans nécessairement y prêter attention... pour inciter à s'arrêter et à porter attention au lieu, à sa vibration, à son histoire et à ses habitants. 
 
-Et après l'heure, c'est encore l'heure... Nous ne voulions pas en rester là, c'était important pour nous comme pour les JXers d'aller au bout de la démarche, **Joliette conneXions** se poursuit donc quelques semaines, le temps de finaliser chaque expérience, concevoir et fabriquer la signalétique qui l'accompagne (QR codes et signes graphiques taggés au sol, flyers...) en vue de leur **lancement le 19 mai 2016**. Car oui, Jungle Joliette, République Stories et Le Réveil de la Joliette seront toutes live, in situ, à compter du printemps. 
+Et comme au tlab après l'heure, c'est quand même toujours l'heure... Nous ne voulions pas en rester là, c'était important pour nous comme pour les JXers d'aller au bout de la démarche, **Joliette conneXions** se poursuit donc quelques semaines, le temps de finaliser chaque expérience, concevoir et fabriquer la signalétique qui l'accompagne (QR codes et signes graphiques taggés au sol, flyers...) en vue de leur **lancement le 19 mai 2016**. Car oui, Jungle Joliette, République Stories et Le Réveil de la Joliette seront toutes live, in situ, à compter du printemps. 
 
-Un grand merci aux 19 participants dont l'enthousiasme et l'investissement ont fait de Joliette conneXions une belle aventure humaine.
+Un grand merci aux 19 participants dont l'enthousiasme et l'investissement ont fait de Joliette conneXions une belle et enrichissante aventure humaine.
 
 Et en attendant le 19 mai... vous pourrez découvrir les trois expériences issues de **Joliette conneXions** sur [jolietteconnexions.com](https://jolietteconnexions.com).
 
