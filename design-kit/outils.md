@@ -50,4 +50,17 @@ La version gratuite permet de créer 3 tableaux et de collaborer à 3... Après,
 
 Plutôt orienté prototypage et test de sites et apps, [Invision](http://www.invisionapp.com/) intègre désormais des "boards" collaboratifs y compris dans sa version gratuite.
 
+## Prototypage
+
+Pour du prototypage rapide, notre choix c'est porté sur des apps qui permettent de simuler des interactions rapidement en chaînant des images des écrans au moyen de "hotspots" ou zones interactives. Les écrans sont préalablement créés avec le logiciel de création graphique de votre choix, puis exportés aux formats jpg ou png : **[Photoshop](http://www.adobe.com/fr/products/photoshop.html)**, **[Illustrator](http://www.adobe.com/fr/products/illustrator.html)**, **[Balsamiq](https://balsamiq.com/)** ou notre chouchou **[Sketch](http://www.sketchapp.com/)** ou enfin, dessinés à la main puis pris en photo. 
+
+### [POP](http://popapp.in)
+Pop ne fait qu'une chose (mais il l'a fait bien) : il permet de chaîner des écrans dessinés à la main et pris en photo pour créer rapidement et à peu de frais de premiers prototypes d'une app ou web app mobile. Précieux pour tester vite de premières hypothèses de conception et d'écriture.
+
+### [Marvelapp](http://marvelapp.com)
+En l'état du développement d'**Invision** (qui offre lui aussi la possibilité de simuler des interactions au moyen d'images d'écrans chaînées) qui ne permet pas de faire des transitions automatiques entre écrans (sans action de l'utilisateur), notre choix se porte sur son concurrent **Marvelapp**, dont la version gratuite est amplement suffisante pour du prototypage rapide (la version premium ajoute quelques fonctions précieuses de collaboration).
+
+**Invision** et **Marvelapp** proposent tous deux des extensions **Sketch** qui permettent d'exporter et uploader directement les écrans depuis notre app préférée de création graphique orientée web design. Les prototypes sont consultables en ligne (dans un navigateur donc) et via les apps maison (iOS et Android, à télécharger au préalable donc).  
+
+
 
