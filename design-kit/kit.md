@@ -150,6 +150,11 @@ L'ultime session de JX s'est déroulée sur un week-end complet : deux jours pou
 
 Deux jours intenses qui ont vu toutes les équipes aboutir une première version fonctionnelle de leur expérience. Et en guise de bouquet final : un test utilisateur grandeur nature des trois expériences (dont une simulée) par une dizaine de testeurs invités.
 
+Les **supports** utilisés :
+
+- **[Exemple fictif de scénario interactif détaillé](https://www.dropbox.com/s/ygb00kb704s4nt7/JX%20Design%20Kit%20-%20Exemple%20de%20sc%C3%A9nario%20interactif%20d%C3%A9taill%C3%A9.pdf?dl=0)**
+- **[Modèle de scénario interactif détaillé](https://www.dropbox.com/s/lxjdmixuca6b6vt/JX%20Design%20Kit%20-%20Mod%C3%A8le%20de%20sc%C3%A9nario%20interactif%20d%C3%A9taill%C3%A9.pdf?dl=0)** (version [Google Docs](https://docs.google.com/document/d/18EOmMwIY0IbgGw1N1S9kHhWdWwhqEDqDxnXSM8AOlX8/copy?usp=sharing))
+
 Les **enseignements** que nous en tirons : 
 
 Le week-end fut intense et au passage une équipe a un peu perdu le fil (pour le retrouver in extremis en fin de session). Les tests ont un peu pâti du rush du sprint final, pas forcément aussi bien préparés et documentés qu'il eut fallu. 
